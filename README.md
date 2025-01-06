@@ -1,3 +1,5 @@
+<div style="background-color: black; color: white; padding: 20px;">
+
 <h1 align="center">Hi 👋, I'm Muhammad Mujtaba</h1>
 <h3 align="center">Aspiring MERN Developer | Tech Enthusiast | React Developer</h3>
 
@@ -28,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujtaba214&show_icons=true&locale=en" alt="mujtaba214" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujtaba214&" alt="mujtaba214" /></p>
+
+</div>
